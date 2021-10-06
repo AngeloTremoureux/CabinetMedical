@@ -39,7 +39,6 @@ namespace CabinetMedical.ClassesMetier
 
             this.libelle = libelle;
             this.intervenant = intervenant;
-            intervenant.Prestations.Add(this);
         }
 
         /// <summary>
