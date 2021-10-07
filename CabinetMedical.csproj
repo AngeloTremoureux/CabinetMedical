@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Angelo Tremoureux</Authors>
+    <Description>Cette bibliothèque permet de gérer un cabinet médical (Projet scolaire) via la création de dossier, d'intervenants et de prestations.</Description>
+    <Copyright>Angelo Tremoureux</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
