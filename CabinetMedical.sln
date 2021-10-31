@@ -3,14 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabinetMedical", "CabinetMedical.csproj", "{716421D5-C20A-42BF-9AE9-C35C5473981A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CabinetMedical", "CabinetMedical.csproj", "{716421D5-C20A-42BF-9AE9-C35C5473981A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCabinetMedical", "..\TestCabinetMedical\TestCabinetMedical.csproj", "{F0DAEC93-3689-4749-AB7C-F2763332D2EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCabinetMedical", "..\TestCabinetMedical\TestCabinetMedical.csproj", "{F0DAEC93-3689-4749-AB7C-F2763332D2EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Description = test
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{716421D5-C20A-42BF-9AE9-C35C5473981A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

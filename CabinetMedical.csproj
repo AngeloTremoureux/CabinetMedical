@@ -6,6 +6,7 @@
     <Authors>Angelo Tremoureux</Authors>
     <Description>Cette bibliothèque permet de gérer un cabinet médical (Projet scolaire) via la création de dossier, d'intervenants et de prestations.</Description>
     <Copyright>Angelo Tremoureux</Copyright>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
